@@ -35,7 +35,7 @@ This repo was created by following the below section of the Cyfrin Foundry Soli
 ## Quickstart
 
 ```
-git clone https://github.com/Cyfrin/foundry-dao-cu
+git clone https://github.com/SajidSheikh87/foundry-dao-cu
 cd foundry-dao-cu
 forge install
 forge build
